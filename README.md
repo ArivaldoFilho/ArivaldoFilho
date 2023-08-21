@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArivaldoFilho
-- 👀 I’m interested in Data Analyst
-- 🌱 I’m currently learning SQL, Power BI, Excel and Python
+- 👀 I’m interested in Data Engineer
+- 🌱 I’m currently learning SQL, Python, Spark, Power BI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
