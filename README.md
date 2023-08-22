@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="250" src=https://photos.app.goo.gl/aT8X9WaCi4fwU3YN8 alt="Arivaldo Filho">
+  <img width="250" src="https://photos.app.goo.gl/aT8X9WaCi4fwU3YN8" alt="Arivaldo Filho">
 </p>
 
 # Olá, Mundo! :rocket:
