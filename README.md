@@ -1,34 +1,32 @@
 # Olá, Mundo! :rocket:
 
-Bem-vindo(a) ao meu canto do GitHub, onde a criatividade encontra o código!
+# Arivaldo Filho - Engenheiro de Dados em Formação
+
+Bem-vindo(a) ao meu canto do GitHub!
 
 ## Quem sou eu?
 
-Sou um(a) [insira uma descrição breve e criativa sobre você]. Quando não estou codificando, você pode me encontrar [insira uma atividade interessante que você gosta de fazer]. :tent:
+Estagiário da empresa Bob`s, atuo no time de Dados. :tent:
 
+- :floppy_disk: Tenho habilidades em ETL, manipulação e armazenamento de dados.
+- :books: Atualmente cursando Engenharia de Software.
+- :computer: Desenvolvimento de projetos pessoais em desenvolvimento de pipelines de dados.
+
+## Habilidades
+
+- **Linguagens de Programação**: Python, SQL.
+- **Ferramentas**: Spark, AirFlow, Power BI.
+- **Armazenamento de Dados**: Conhecimento básico em GCP.
+- **Metodologias**: Resolução de problemas, trabalho em equipe.
+- 
 ## O que estou fazendo agora?
 
-- 💻 Estagiando como Analista de Dados na empresa Bob's
-- 📚 Realizando estudos na área de dados, mais especificamente na area de Engenharia de Daod
-- 🌐 Colaborando com a comunidade de desenvolvedores para tornar o mundo um lugar melhor através da tecnologia.
-
-## Ferramentas
-
-## Projetos Épicos
-
-Alguns dos meus projetos mais épicos:
-
-- [Projeto A](https://link-para-projeto-a): Um conto de código e aventura.
-- [Projeto B](https://link-para-projeto-b): Explorando terras desconhecidas da programação.
-- [Projeto C](https://link-para-projeto-c): Um desafio que abala os alicerces do desenvolvimento.
-
-## Magia GitHub
-
-[![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=radical)](https://github.com/seu-username)
+- 💻 Estagiário no time de dados na empresa Bob's.
+- 📚 Atualmente cursando Engenharia de Software.
 
 ## Contato
 
 - :e-mail: arivaldofilho26@hotmail.com
 - :star: Siga-me no Linkedln: https://www.linkedin.com/in/arivaldofilho
 
- Estou ansioso para colaborar em projetos empolgantes e impulsionar a análise de dados para o próximo nível. :chart_with_upwards_trend:
+Estou comprometido em aplicar meu conhecimento em Engenharia de Dados em um ambiente profissional e contribuir para soluções baseadas em dados. :floppy_disk:
