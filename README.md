@@ -11,7 +11,7 @@ Minhas principais skills:
 Contato:
 
 <a href="https://www.linkedin.com/in/arivaldofilho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div> <a href = "arivaldofilho26@gmail.com"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hotmail" target="_blank"></a>
+</div> <a href = "arivaldofilho26@gmail.com"><img src="https://img.shields.io/badge/-Hotmail-%230078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Hotmail" alt="Hotmail" target="_blank"></a>
 
 ## Eu sou Engenheiro de Dados Azure.
 
