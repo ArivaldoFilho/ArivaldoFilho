@@ -1,4 +1,4 @@
-# Hi there  I'm Arivaldo Silva Braga Filho👋
+# Hi there, I'm Arivaldo Silva Braga Filho👋
 
 ## Engenheiro de Dados em formação
 Sou um estagiário na empresa Bob's com expertise em extração, manipulação e estruturação de dados, habilitando análises aprofundadas e facilitando tomadas de decisões estratégicas para a organização. Busco ativamente uma oportunidade que me permita aplicar meu conhecimento técnico e colaborar em projetos de otimização de processos e melhorias operacionais, contribuindo assim para o crescimento e o sucesso da equipe e da empresa.
@@ -38,17 +38,10 @@ Sou um estagiário na empresa Bob's com expertise em extração, manipulação e
 
 
 
-- Bancos de Dados Relacionais: SQL Server (T-SQL), Oracle (P-SQL), MySQL
+- Bancos de Dados Relacionais: SQL Server (T-SQL), MySQL
 - Modelagem: Relacional, Dimensional
-- Ferramentas de ETL: Power Center, Integration Services
 - Ferramentas de Dataview: Power BI
-- Ferramentas de apoio: Python para análise de dados, Git, Excel, UiPath
+- Ferramentas de apoio: Python para análise de dados, Git, Excel, UiPath(RPA)
 - Estudos autônomos: Databricks, Ecossistema Apache 
 
-
-<div>
-<a href="https://github.com/demetriusengdados">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArivaldoFilho&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArivaldoFilho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
