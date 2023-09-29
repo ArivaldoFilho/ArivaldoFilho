@@ -11,9 +11,9 @@ Minhas principais skills:
 Contato:
 
 <a href="https://www.linkedin.com/in/arivaldofilho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div> <a href = "mailto:arivaldofilho26@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%230078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Hotmail" alt="Hotmail" target="_blank"></a>   arivaldofilho26@hotmail.com
+</div> <a href = "mailto:arivaldofilho26@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%230078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Hotmail" alt="Hotmail" target="_blank"></a>
 
-## Eu sou Engenheiro de Dados Azure.
+## Eu sou Engenheiro de Dados.
 
 ### Meu objetivo é ajudar empresas a resolver seus problemas com dados.
 
@@ -22,18 +22,12 @@ Contato:
 - Atlassian (Jira Service Desk, Jira Software e Jira Cloud) 
 - Ecossistema Apache e Cloud Azure/AWS 
 - Tenho experiencia na área de produtos e projetos envolvendo desde concepção até entrega de arquitetura de dados
-- Atuo atualmente como engenheiro de dados em time de sustentação 
-- Me segue ai e bora falar de dados 
+- Atuo atualmente como Analista de Dados em time de sustentação 
 
 ## Atuação Profissional 
 
-- Engenheiro de Dados - Jump Label - (05/2023 - até o momento)
-- Engenheiro de Dados - Kumulus - (01/2023 - 04/2023)
-- Engenheiro de Dados - Radix - (11/2021 - 01/2023)
-- Engenheiro de Dados - Sales Gama (11/2020 - 11/2021)
-- Engenheiro de Dados - D&C Sistemas - (11/2012 - 11/2020)
-- DBA - Vale - (03/2008 - 11/2012)
-
+- Analista de Dados - Bob´s - (08/2023 - até o momento)
+- Engenheiro de Dados - SanData - (05/2023 - até o momento)
 
 ## Hard Skills:
 [![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://github.com/demetriusengdados/demetriusengdados/edit/main/README.md)
@@ -50,15 +44,15 @@ Contato:
 - Bancos de Dados Relacionais: SQL Server (T-SQL), Oracle (P-SQL), MySQL
 - Modelagem: Relacional, Dimensional
 - Ferramentas de ETL: Power Center, Integration Services
-- Ferramentas de Dataviz: Power BI
-- Ferramentas de apoio: Power Automate, Excel, Git, Python para análise de dados
-- Estudos autônomos: Azure Data Factory, Azure Synapse, Azure Analysis Services, Databricks, Ecossistema Apache 
+- Ferramentas de Dataview: Power BI
+- Ferramentas de apoio: Python para análise de dados, Git, Excel, UiPath
+- Estudos autônomos: Databricks, Ecossistema Apache 
 - Teradata
 - SAS
 
 <div>
 <a href="https://github.com/demetriusengdados">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demetriusengdados&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=demetriusengdados&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArivaldoFilho&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArivaldoFilho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
