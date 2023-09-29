@@ -24,6 +24,7 @@ Python, SQL, Spark, AirFlow, Databricks
 </div>
 
 
+
 ## Eu sou Engenheiro de Dados.
 
 ### Meu objetivo é ajudar empresas a resolver seus problemas com dados.
