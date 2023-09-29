@@ -3,17 +3,13 @@
 ## Engenheiro de Dados em formação
 Sou um estagiário na empresa Bob's com expertise em extração, manipulação e estruturação de dados, habilitando análises aprofundadas e facilitando tomadas de decisões estratégicas para a organização. Busco ativamente uma oportunidade que me permita aplicar meu conhecimento técnico e colaborar em projetos de otimização de processos e melhorias operacionais, contribuindo assim para o crescimento e o sucesso da equipe e da empresa.
 
-Minhas principais skills:
-
-Python, SQL, Spark, AirFlow, Databricks
-
 ### Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arivaldofilho/)
 [![Hotmail](https://img.shields.io/badge/-Hotmail-%230078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:arivaldofilho26@hotmail.com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5598992321355)
 
-### Meu objetivo é ajudar empresas a resolver seus problemas com dados.
+### Meu objetivo é ajudar empresas a resolver seus problemas com os dados.
 
 ## Projetos já desenvolvidos
 
@@ -38,7 +34,7 @@ Python, SQL, Spark, AirFlow, Databricks
 [![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/demetriusengdados/demetriusengdados/edit/main/README.md)
 [![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)](https://github.comdemetriusengdados/demetriusengdados/edit/main/README.md)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://github.com/demetriusengdados/demetriusengdados/edit/main/README.md)
-[![Hadoop](https://img.shields.io/badge/Hadoop-5849be?style=for-the-badge&logo=Hadoop&logoColor=white)](https://github.com/demetriusengdados/demetriusengdados/edit/main/README.md)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](https://github.com/demetriusengdados/demetriusengdados/edit/main/README.md)
 [![AWS](https://img.shields.io/badge/AWS-0052CC?style=for-the-badge&logo=AWS&logoColor=white)](https://github.com/demetriusengdados/demetriusengdados/edit/main/README.md)
 
