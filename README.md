@@ -13,24 +13,22 @@ Python, SQL, Spark, AirFlow, Databricks
 [![Hotmail](https://img.shields.io/badge/-Hotmail-%230078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:arivaldofilho26@hotmail.com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5598992321355)
 
-
-
-
-## Eu sou Engenheiro de Dados.
-
 ### Meu objetivo é ajudar empresas a resolver seus problemas com dados.
 
-## Experiência em Projetos de Engenharia e Arquitetura de Dados usando:
+## Projetos já desenvolvidos
 
-- Atlassian (Jira Service Desk, Jira Software e Jira Cloud) 
-- Ecossistema Apache e Cloud Azure/AWS 
-- Tenho experiencia na área de produtos e projetos envolvendo desde concepção até entrega de arquitetura de dados
-- Atuo atualmente como Analista de Dados em time de sustentação 
-
+- Extração e tratamento dos dados utilizando Python
+- Processamento de Big Data com Spark
+- Estruturação de indicadores e exbição em DashBoard (Power BI)
+- Automações de processos utilizando Python
+- Estruturação e Modelagem de Banco de Dados
+- Consultas em Banco de Dados com SQL
+- Construção de pipelines (AirFlow)
+  
 ## Atuação Profissional 
 
 - Analista de Dados - Bob´s - (08/2023 - até o momento)
-- Engenheiro de Dados - SanData - (05/2023 - até o momento)
+- Engenheiro de Dados - SanData - (05/2023 - até o momento) Obs.: Empresa formada por mim e mais alguns Engenheiro de Dados onde estamos desenvolvendo projetos para micro empresas.
 
 ## Hard Skills:
 [![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://github.com/demetriusengdados/demetriusengdados/edit/main/README.md)
@@ -50,8 +48,7 @@ Python, SQL, Spark, AirFlow, Databricks
 - Ferramentas de Dataview: Power BI
 - Ferramentas de apoio: Python para análise de dados, Git, Excel, UiPath
 - Estudos autônomos: Databricks, Ecossistema Apache 
-- Teradata
-- SAS
+
 
 <div>
 <a href="https://github.com/demetriusengdados">
