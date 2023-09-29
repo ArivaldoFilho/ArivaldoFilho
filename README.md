@@ -11,6 +11,7 @@ Python, SQL, Spark, AirFlow, Databricks
 
 <a href="https://www.linkedin.com/in/arivaldofilho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div> <a href = "mailto:arivaldofilho26@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%230078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Hotmail" alt="Hotmail" target="_blank"></a>
+
 </div> <a href = "https://api.whatsapp.com/send?phone=5598992321355"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" target="_blank"></a>
 
 ## Eu sou Engenheiro de Dados.
