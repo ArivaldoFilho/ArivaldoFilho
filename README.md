@@ -34,7 +34,8 @@ Sou um estagiário na empresa Bob's com expertise em extração, manipulação e
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)]
 [![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache%20spark&logoColor=white)](https://spark.apache.org/)
-[![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache%20airflow&logoColor=white)](https://airflow.apache.org/)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache%20airflow&logoColor=white)
+
 
 
 - Bancos de Dados Relacionais: SQL Server (T-SQL), Oracle (P-SQL), MySQL
