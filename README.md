@@ -1,7 +1,7 @@
 # Hi there, I'm Arivaldo Silva Braga Filho👋
 
 ## Analista de Dados
-Sou um estagiário na empresa Bob's com expertise em extração, manipulação e estruturação de dados, habilitando análises aprofundadas e facilitando tomadas de decisões estratégicas para a organização. Busco ativamente uma oportunidade que me permita aplicar meu conhecimento técnico e colaborar em projetos de otimização de processos e melhorias operacionais, contribuindo assim para o crescimento e o sucesso da equipe e da empresa.
+Analista de Dados na empresa Bob's, com expertise em extração, manipulação e estruturação de dados, habilitando análises aprofundadas e facilitando tomadas de decisões estratégicas para a organização. Busco ativamente uma oportunidade que me permita aplicar meu conhecimento técnico e colaborar em projetos de otimização de processos e melhorias operacionais, contribuindo assim para o crescimento e o sucesso da equipe e da empresa.
 
 ### Contato
 
@@ -24,8 +24,8 @@ Sou um estagiário na empresa Bob's com expertise em extração, manipulação e
 ## Atuação Profissional 
 
 - Analista de Dados - Bob´s - (08/2023 - até o momento)
-- Engenheiro de Dados - SanData - (05/2023 - até o momento) Obs.: Empresa formada por mim e mais alguns Engenheiro de Dados onde estamos desenvolvendo projetos para micro empresas.
-
+- Analista de Dados - ABRAETD(Trabalho Voluntário) -  (04/2023 - 08/2023)
+  
 ## Hard Skills:
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
