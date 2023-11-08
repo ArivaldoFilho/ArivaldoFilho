@@ -13,13 +13,8 @@ Analista de Dados na empresa Bob's, com expertise em extração, manipulação e
 
 ## Projetos já desenvolvidos
 
-- Extração e tratamento dos dados utilizando Python
-- Processamento de Big Data com Spark
-- Estruturação de indicadores e exbição em DashBoard (Power BI)
-- Automações de processos utilizando Python
-- Estruturação e Modelagem de Banco de Dados
-- Consultas em Banco de Dados com SQL
-- Construção de pipelines (AirFlow)
+- Extração, tratamento, visualização e geração de insights dos dados financeiros de um supermecado
+- Criação de um dashboard para uma empresa de marketing digital
   
 ## Atuação Profissional 
 
