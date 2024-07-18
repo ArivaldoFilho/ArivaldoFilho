@@ -1,13 +1,12 @@
 # Hi there, I'm Arivaldo Silva Braga Filho👋
 
-## Analista de Dados
+## Engenheiro de Dados
 Analista de Dados na empresa Bob's, com expertise em extração, manipulação e estruturação de dados, habilitando análises aprofundadas e facilitando tomadas de decisões estratégicas para a organização. Busco ativamente uma oportunidade que me permita aplicar meu conhecimento técnico e colaborar em projetos de otimização de processos e melhorias operacionais, contribuindo assim para o crescimento e o sucesso da equipe e da empresa.
 
 ### Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arivaldofilho/)
 [![Hotmail](https://img.shields.io/badge/-Hotmail-%230078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:arivaldofilho26@hotmail.com)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5598992321355)
 
 ### Meu objetivo é ajudar empresas a resolver seus problemas com os dados.
 
@@ -18,7 +17,9 @@ Analista de Dados na empresa Bob's, com expertise em extração, manipulação e
   
 ## Atuação Profissional 
 
-- Analista de Dados - Bob´s - (08/2023 - até o momento)
+- Engenheiro de Dados - ROX PARTNER - (03/2024 - até o momento)
+- Analista de Dados - Dimensão Engenharia e Construção - (12/2023 - 03/2023)
+- Analista de Dados - Bob´s - (08/2023 - 12/2023)
 - Analista de Dados - ABRAETD(Trabalho Voluntário) -  (04/2023 - 08/2023)
   
 ## Hard Skills:
