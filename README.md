@@ -1,7 +1,6 @@
 # Hi there, I'm Arivaldo Silva Braga Filho👋
 
 ## Engenheiro de Dados
-Analista de Dados na empresa Bob's, com expertise em extração, manipulação e estruturação de dados, habilitando análises aprofundadas e facilitando tomadas de decisões estratégicas para a organização. Busco ativamente uma oportunidade que me permita aplicar meu conhecimento técnico e colaborar em projetos de otimização de processos e melhorias operacionais, contribuindo assim para o crescimento e o sucesso da equipe e da empresa.
 
 ### Contato
 
