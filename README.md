@@ -14,9 +14,10 @@
 - Extração, tratamento, visualização e geração de insights dos dados financeiros de um supermecado
 - Criação de um dashboard para uma empresa de marketing digital
   
-## Atuação Profissional 
+## Atuação Profissional
 
-- Engenheiro de Dados - ROX PARTNER - (03/2024 - até o momento)
+- Engenheiro de Dados - Foursys - (09/2025 - até o momento)
+- Engenheiro de Dados - ROX PARTNER - (03/2024 - 09/2025)
 - Analista de Dados - Dimensão Engenharia e Construção - (12/2023 - 03/2023)
 - Analista de Dados - Bob´s - (08/2023 - 12/2023)
 - Analista de Dados - ABRAETD(Trabalho Voluntário) -  (04/2023 - 08/2023)
